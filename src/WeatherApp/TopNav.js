@@ -4,7 +4,7 @@ function TopNav() {
   return (
     <>
         <div className='topNav'>
-            <h2>Husniddin | Weather App</h2>
+            <h2>Weather App</h2>
         </div>
     </>
   )
